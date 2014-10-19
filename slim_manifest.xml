@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+	# common
+  <project name="slimroms/device_qcom_common" path="device/qcom/common" remote="github" revision="kk4.4" />
+  <project name="slimroms/hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="github" revision="kk4.4" />
+  <project name="slimroms/hardware_qcom_media-caf" path="hardware/qcom/media-caf" remote="github" revision="kk4.4" />
+  <project name="slimroms/hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="kk4.4" />
+  <project name="slimroms/hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" revision="kk4.4" />
+  <project name="slimroms/hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="kk4.4" />
+  <project name="candykat/device_htc_s4-common" path="device/htc/s4-common" remote="github" revision="ck44" />
+  <project name="cyanogenmod/android_kernel_htc_msm8960" path="kernel/htc/s4" remote="github" revision="cm-11.0" />
+  <project name="slimroms/device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="kk4.4" />
+  <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-11.0" />
+  <project name="rc420head/device_htc_ville" path="device/htc/ville" remote="github" revision="ck44rc" />
+  
+</manifest>
